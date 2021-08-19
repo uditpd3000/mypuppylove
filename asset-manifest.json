@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mypuppylove/static/css/main.ec41ce8f.chunk.css",
+    "main.js": "/mypuppylove/static/js/main.aa4db63f.chunk.js",
+    "main.js.map": "/mypuppylove/static/js/main.aa4db63f.chunk.js.map",
+    "runtime-main.js": "/mypuppylove/static/js/runtime-main.58f13437.js",
+    "runtime-main.js.map": "/mypuppylove/static/js/runtime-main.58f13437.js.map",
+    "static/css/2.6a62d384.chunk.css": "/mypuppylove/static/css/2.6a62d384.chunk.css",
+    "static/js/2.55270313.chunk.js": "/mypuppylove/static/js/2.55270313.chunk.js",
+    "static/js/2.55270313.chunk.js.map": "/mypuppylove/static/js/2.55270313.chunk.js.map",
+    "static/js/3.69cf8b62.chunk.js": "/mypuppylove/static/js/3.69cf8b62.chunk.js",
+    "static/js/3.69cf8b62.chunk.js.map": "/mypuppylove/static/js/3.69cf8b62.chunk.js.map",
+    "index.html": "/mypuppylove/index.html",
+    "static/css/2.6a62d384.chunk.css.map": "/mypuppylove/static/css/2.6a62d384.chunk.css.map",
+    "static/css/main.ec41ce8f.chunk.css.map": "/mypuppylove/static/css/main.ec41ce8f.chunk.css.map",
+    "static/js/2.55270313.chunk.js.LICENSE.txt": "/mypuppylove/static/js/2.55270313.chunk.js.LICENSE.txt",
+    "static/media/3277616.cf905f9d.jpg": "/mypuppylove/static/media/3277616.cf905f9d.jpg",
+    "static/media/Profile_Pic.2b539ccf.jpg": "/mypuppylove/static/media/Profile_Pic.2b539ccf.jpg",
+    "static/media/Profile_Pic2.342e743a.png": "/mypuppylove/static/media/Profile_Pic2.342e743a.png",
+    "static/media/Profile_Pic3.dfba79fa.jpg": "/mypuppylove/static/media/Profile_Pic3.dfba79fa.jpg",
+    "static/media/Profile_Pic5.0fe0af97.jpg": "/mypuppylove/static/media/Profile_Pic5.0fe0af97.jpg",
+    "static/media/boy.3726cd0d.jpg": "/mypuppylove/static/media/boy.3726cd0d.jpg",
+    "static/media/cover.383aa09a.jpg": "/mypuppylove/static/media/cover.383aa09a.jpg",
+    "static/media/font-awesome.min.css": "/mypuppylove/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/girl.4580fd65.jpg": "/mypuppylove/static/media/girl.4580fd65.jpg",
+    "static/media/heart.e6560b83.png": "/mypuppylove/static/media/heart.e6560b83.png",
+    "static/media/App.css": "/mypuppylove/static/media/pink.047ae54e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58f13437.js",
+    "static/css/2.6a62d384.chunk.css",
+    "static/js/2.55270313.chunk.js",
+    "static/css/main.ec41ce8f.chunk.css",
+    "static/js/main.aa4db63f.chunk.js"
+  ]
+}
